@@ -34,3 +34,7 @@ This repository contains a project templates for creating Revit Add-In.
 
 - To create a project use the IDE or run `dotnet new`.
 - For more information, read [Wiki](https://github.com/Nice3point/RevitTemplates/wiki).
+
+## Samples
+
+Additional examples live in the `samples` folder. For instance, **Smart Tray Schedule** demonstrates how to generate cable tray schedules and call an AI service.
