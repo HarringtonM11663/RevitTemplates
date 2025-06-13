@@ -34,6 +34,9 @@ Templates description: https://github.com/Nice3point/RevitTemplates/wiki/Templat
 | Templates   | Creation options              | Value                    |
 |-------------|-------------------------------|--------------------------|
 | Revit AddIn | AddIn type<br/>User interface | Application<br/>Modeless |
+- **Smart Tray Schedule** — a sample add-in that generates cable tray schedules using an optional AI service.
+  Located in `samples/SmartTraySchedule`.
+
 
 ## Advanced
 
